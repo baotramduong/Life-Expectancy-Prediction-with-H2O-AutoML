@@ -1,4 +1,4 @@
-# Life Expectancy Prediction with Linear Regression
+# Life Expectancy Prediction with H2O AutoML
 
 ## Blog
 
