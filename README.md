@@ -22,13 +22,13 @@ In this project, we will leverage population's information on immunization, mort
 
 ## Model Explainability
 
-<img src = '../main/Data & Images/Variable Importance Heatmap.png'>
-
 <img src = '../main/Data & Images/Model Correlation.png'>
 
-<img src = '../main/Data & Images/SHAP Summary.png'>
-
 <img src = '../main/Data & Images/Variable Importance.png'>
+
+<img src = '../main/Data & Images/Variable Importance Heatmap.png'>
+
+<img src = '../main/Data & Images/SHAP Summary.png'>
 
 <img src = '../main/Data & Images/Partial Dependence Plots adult_mortality.png'>
 
