@@ -2,7 +2,7 @@
 
 ## Blog
 
-[Medium blog]()
+[Medium blog](https://baotramduong.medium.com/life-expectancy-prediction-with-h2o-automl-91a36b4b06d2)
 
 ## Introduction
 
